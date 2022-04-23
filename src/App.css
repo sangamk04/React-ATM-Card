@@ -1,0 +1,9 @@
+.App {
+  /* text-align: center; */
+  /* border: solid red 1px; */
+  display: flex;
+  height: 400px;
+  margin: auto 15%;
+  justify-content: space-between;
+}
+
